@@ -1,2 +1,2 @@
-# collective_construction
-Collective Robot Construction developed in ARGoS 3
+# Decentralized Collective Robot Construction
+Multi-Agent Collective Robot Construction testing for different simulator environments 
