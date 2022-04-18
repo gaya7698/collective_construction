@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kristian/ARgos3/argos3-examples/embedding/mpga/main.cpp
+iostream
+-
+fstream
+-
+loop_functions/mpga_loop_functions/mpga.h
+-
+loop_functions/mpga_loop_functions/mpga_phototaxis_loop_functions.h
+-
+

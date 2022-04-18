@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/mpga_phototaxis.dir/main.o  -o mpga_phototaxis  -lfootbot_nn -lmpga_phototaxis_loop_functions -largos3core_simulator 
