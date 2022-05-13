@@ -37,7 +37,7 @@ $ ./run_agents.sh
 ### Run headless
 ```bash
 $ cd collective_construction                # go into the folder you git cloned
-$ chmod +x run_agents_headless.sh                    # make file executable
+$ chmod +x run_agents_headless.sh           # make file executable
 $ ./run_agents_headless.sh
 ```
 
