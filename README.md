@@ -4,11 +4,11 @@ This project is a Multi-Agents Reinforcement Learning (MARL) Collective Robot Co
 ## Prerequisites
 * Ubuntu 18.04 or above
 * Python 3.6
-* Argos3
+* ARGoS3
 [18.04](https://drive.google.com/file/d/19RZtiHKYhTA_SXzMLRSksH_zO5YXr_kR/view) or [20.04](https://drive.google.com/file/d/1oO2lb2LuLq4IrZmNMiJurWTotHp_pDye/view)
 
 ## Installation
-0. Install Argos3
+0. Install ARGoS3
 Download .deb file for Ubuntu
 [18.04](https://drive.google.com/file/d/19RZtiHKYhTA_SXzMLRSksH_zO5YXr_kR/view) or [20.04](https://drive.google.com/file/d/1oO2lb2LuLq4IrZmNMiJurWTotHp_pDye/view)
 ```bash
@@ -42,4 +42,4 @@ $ ./run_agents_headless.sh
 ```
 
 ## References
-- ARGos3: https://github.com/ilpincy/argos3
+- ARGoS3: https://github.com/ilpincy/argos3
