@@ -42,4 +42,5 @@ $ ./run_agents_headless.sh
 ```
 
 ## References
-- ARGoS3: https://github.com/ilpincy/argos3
+- ARGoS3_Github: https://github.com/ilpincy/argos3
+- ARGoS3: https://www.argos-sim.info/index.php
