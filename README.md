@@ -1,4 +1,4 @@
-# Decentralized Collective Robot Construction
+# Decentralized Collective Robot Construction Graduate Course- CSE 610 / MAE 600 : Learning for Autonomous Systems
 This project is a Multi-Agents Reinforcement Learning (MARL) Collective Robot Construction simulation environment based on [ARGoS3](https://www.argos-sim.info)
 
 ## Prerequisites
@@ -6,7 +6,7 @@ This project is a Multi-Agents Reinforcement Learning (MARL) Collective Robot Co
 * Python 3.6
 * ARGoS3
 [18.04](https://drive.google.com/file/d/19RZtiHKYhTA_SXzMLRSksH_zO5YXr_kR/view) or [20.04](https://drive.google.com/file/d/1oO2lb2LuLq4IrZmNMiJurWTotHp_pDye/view)
-CSE 610 / MAE 600 : Learning for Autonomous Systems
+
 
 ## Installation
 0. Install ARGoS3,
