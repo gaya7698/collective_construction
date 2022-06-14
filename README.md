@@ -27,7 +27,7 @@ $ make                                      # compile
 $ cd ..
 ```
 ## Usage
-### Run with visuliztion
+### Run with visualization
 ```bash
 $ cd collective_construction                # go into the folder you git cloned
 $ chmod +x run_agents.sh                    # make file executable
